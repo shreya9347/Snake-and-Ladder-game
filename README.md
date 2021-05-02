@@ -19,19 +19,28 @@ Libraries Used:-
 2. Random Module is a built-in module to generate the pseudo-random variables. It can be used perform some action randomly such as to get a random number, selecting a random elements from a list, shuffle elements randomly, etc.
 
 Let's start :
-https://github.com/shreya9347/Snake-and-Ladder-game/blob/main/board_image.png
+
+<p align="center">
+  <img src="https://github.com/shreya9347/Snake-and-Ladder-game/blob/main/board_image.png">
+</p>
+<br>
+
+With the help of board image we have to form dictionary of ladder and snake such that ladder={start_point:ending_point},snake={ending_point,starting_point}
+ladder = {1: 38, 4: 14, 8: 30, 21: 42, 28: 74, 50: 67, 71: 92, 88: 99}
+snake = {32: 10, 34: 6, 48: 26, 62: 18, 88: 89, 95: 56, 97: 78}
 
 Functions:
 
-def show_board():
+def show_board():This Function is needed to show the image of board
 
-def check_ladder(points):
+def check_ladder(points): It checks the point in Ladder dictionary .If matches Climb up (increment to ending_point).
 
-def check_snake(points):
+def check_snake(points): It checks the points in Snake dictoionary .If matches snake bite!(decrement to starting_point).
 
-def reached_end(points):
+def reached_end(points): checks weather a points has reached end point that is 100
 
-def play():
+def play(): It asked for player name and then dice is roll randomly between (1,6)
 
-def startGame(self):
+How to install this
 
+git clone https://github.com/shreya9347/Snake-and-Ladder-game
