@@ -18,7 +18,8 @@ Libraries Used:-
 
 2. Random Module is a built-in module to generate the pseudo-random variables. It can be used perform some action randomly such as to get a random number, selecting a random elements from a list, shuffle elements randomly, etc.
 
-3.
+Let's start :
+https://github.com/shreya9347/Snake-and-Ladder-game/blob/main/board_image.png
 
 Functions:
 
