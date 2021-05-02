@@ -21,7 +21,7 @@ Libraries Used:-
 Let's start :
 
 <p align="center">
-  <img src="https://github.com/shreya9347/Snake-and-Ladder-game/blob/main/board_image.png">
+  <img src="https://raw.githubusercontent.com/shreya9347/Snake-and-Ladder-game/main/board_image.png">
 </p>
 <br>
 
